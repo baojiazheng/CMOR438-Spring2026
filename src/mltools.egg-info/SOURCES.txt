@@ -17,3 +17,8 @@ src/mltools/supervised/logistic_regression.py
 src/mltools/unsupervised/__init__.py
 src/mltools/unsupervised/kmeans.py
 src/mltools/unsupervised/pca.py
+tests/test_kmeans.py
+tests/test_knn.py
+tests/test_linear_regression.py
+tests/test_logistic_regression.py
+tests/test_metrics.py
