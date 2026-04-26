@@ -90,11 +90,11 @@ CMOR438-Spring2026/
 
 ## Example Datasets
 
-### TBD Dataset 1
-- Description coming soon.
+### House Prices — Advanced Regression Techniques
+- **Source:** [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
-### TBD Dataset 2
-- Description coming soon.
+### Credit Card Fraud Detection
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
