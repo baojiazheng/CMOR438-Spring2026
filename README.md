@@ -51,25 +51,26 @@ CMOR438-Spring2026/
 └── README.md
 ```
 
-## Algorithms
+## Algorithms Included
 
 ### Supervised Learning
-- **Linear Regression** — Ordinary Least Squares (OLS) with RMSE and R² evaluation.
-- **Ridge / Lasso Regression** — Regularized linear models to handle overfitting.
-- **Logistic Regression** — Batch gradient descent with sigmoid activation and accuracy metrics.
-- **K-Nearest Neighbors (KNN)** — Distance-based classifier supporting multiple distance metrics.
-- **Decision Trees** — Recursive tree-building using information gain (classification) or variance reduction (regression).
-- **Random Forests** — Ensemble of decision trees with bagging for improved generalization.
-- **Gradient Boosting** — Sequential ensemble method minimizing residual errors.
-- **Support Vector Machines (SVM)** — Margin-maximizing classifier with kernel support.
-- **Multi-Layer Perceptron (MLP)** — Feedforward neural network with backpropagation and cross-entropy loss.
+- **[Linear Regression](notebooks/Supervised_Learning/Linear_Models/linear_regression.ipynb)** — Ordinary Least Squares (OLS) with RMSE and R² evaluation.
+- **[Ridge / Lasso Regression](notebooks/Supervised_Learning/Linear_Models/linear_regression.ipynb)** — Regularized linear models to handle overfitting.
+- **[Logistic Regression](notebooks/Supervised_Learning/Logistic_Regression/logistic_regression.ipynb)** — Batch gradient descent with sigmoid activation and accuracy metrics.
+- **[Perceptron](notebooks/Supervised_Learning/Neural_Networks/neural_networks.ipynb)** — Single-layer neural network for binary classification.
+- **[K-Nearest Neighbors (KNN)](notebooks/Supervised_Learning/KNN/knn.ipynb)** — Distance-based classifier supporting multiple distance metrics.
+- **[Decision Trees](notebooks/Supervised_Learning/Decision_Trees_Ensembles/decision_trees_ensembles.ipynb)** — Recursive tree-building using information gain (classification) or variance reduction (regression).
+- **[Random Forests](notebooks/Supervised_Learning/Decision_Trees_Ensembles/decision_trees_ensembles.ipynb)** — Ensemble of decision trees with bagging for improved generalization.
+- **[Gradient Boosting](notebooks/Supervised_Learning/Decision_Trees_Ensembles/decision_trees_ensembles.ipynb)** — Sequential ensemble method minimizing residual errors.
+- **[Support Vector Machines (SVM)](notebooks/Supervised_Learning/SVM/svm.ipynb)** — Margin-maximizing classifier with kernel support.
+- **[Multi-Layer Perceptron (MLP)](notebooks/Supervised_Learning/Neural_Networks/neural_networks.ipynb)** — Feedforward neural network with backpropagation and cross-entropy loss.
 
 ### Unsupervised Learning
-- **K-Means Clustering** — Centroid-based clustering with inertia computation.
-- **Hierarchical Clustering** — Agglomerative clustering with dendrogram visualization.
-- **DBSCAN** — Density-based clustering for arbitrary-shaped clusters and noise detection.
-- **PCA** — Dimensionality reduction and variance analysis.
-- **t-SNE** — Non-linear dimensionality reduction for high-dimensional data visualization.
+- **[K-Means Clustering](notebooks/Unsupervised_Learning/Clustering/clustering.ipynb)** — Centroid-based clustering with inertia computation.
+- **[Hierarchical Clustering](notebooks/Unsupervised_Learning/Clustering/clustering.ipynb)** — Agglomerative clustering with dendrogram visualization.
+- **[DBSCAN](notebooks/Unsupervised_Learning/Clustering/clustering.ipynb)** — Density-based clustering for arbitrary-shaped clusters and noise detection.
+- **[PCA](notebooks/Unsupervised_Learning/Dimensionality_Reduction/dimensionality_reduction.ipynb)** — Dimensionality reduction and variance analysis.
+- **[t-SNE](notebooks/Unsupervised_Learning/Dimensionality_Reduction/dimensionality_reduction.ipynb)** — Non-linear dimensionality reduction for high-dimensional data visualization.
 
 ---
 
